@@ -5,8 +5,8 @@ def display_board(board)
   puts ""
 board = ["O", "X", " ", " ", "X", " ", "X", "O", " "]
 display_board(board)
-O | X |   
+O | X |
 -----------
-  | X |   
+  | X |
 -----------
-X | O |   
+X | O |
